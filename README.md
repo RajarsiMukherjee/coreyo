@@ -19,7 +19,7 @@ To run the project first downlode the zip file, then follow the bellow steps
 1. Unzip the folder.
 2. downlode the node_modules by run the command "npm i".
 3. create a '.env' file outside the src and add "JWT_SECRET_KEY=anything123".
-4. now to start the project he command "npm start".
+4. now to start the project run command "npm start".
 5. To get the data for different pages run the bellow mention link as per the  pages in to the Postman. 
 
 ## Register Page
