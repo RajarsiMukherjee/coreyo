@@ -20,7 +20,7 @@ To run the project first downlode the zip file, then follow the bellow steps
 2. downlode the node_modules by run the command "npm i".
 3. create a '.env' file outside the src and add "JWT_SECRET_KEY=anything123".
 4. now to start the project run command "npm start".
-5. To get the data for different pages run the bellow mention link as per the  pages in to the Postman. 
+5. To get the data for different pages run the below mention link as per the  pages in to the Postman. 
 
 ## Register Page
 Users can create a account on this page.
@@ -35,7 +35,7 @@ Use the get method and pass the bellow api to check the weather data.
 (http://localhost:8000/weather)
 
 ### News Page
-This news is a privet page so the user need to login first. is the user is authenticated then Use the get method and pass the bellow api to check the news data.
+This news is a privet page so the user need to login first. is the user is authenticated then Use the get method and pass the below api to check the news data.
 (http://localhost:8000/news)
 
 
