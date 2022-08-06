@@ -1,0 +1,36 @@
+[
+    {
+        "count": 1,
+        "unit": "metric",
+        "location": "Bangalore",
+        "data": [
+            {
+                "date": "Sun March 06 2020",
+                "main": "Rain",
+                "temp": 293.55
+            },
+            {
+                "date": "Sun March 07 2020",
+                "main": "Sunny",
+                "temp": 294.64
+            }
+        ]
+    },
+    {
+        "count": 2,
+        "unit": "metric",
+        "location": "Kolkata",
+        "data": [
+            {
+                "date": "Sun March 06 2020",
+                "main": "Rain",
+                "temp": 293.55
+            },
+            {
+                "date": "Sun March 07 2020",
+                "main": "Sunny",
+                "temp": 294.64
+            }
+        ]
+    }
+]
